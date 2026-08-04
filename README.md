@@ -6,3 +6,5 @@ Multiplying recursive integer values in Rust.
 Clone this project and look at the source files:
 - `main.rs`
 - `math.rs`
+
+*Initialized by willlliammmsmithhh workspace automation.*
